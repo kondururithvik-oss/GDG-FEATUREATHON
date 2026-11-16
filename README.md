@@ -1,4 +1,6 @@
 # GDG-FEATUREATHON
+
+Explore all 10 repositories to discover innovative ideas, creative solutions, practical implementations, and collaborative development efforts. Each repository represents a unique contribution, showcasing the creativity, technical skills, and problem-solving abilities of the participants.
 # Open-Source Product 
 
 A curated `README` showcasing the highest-starred open-source repositories on GitHub that serve as full-featured, self-hostable alternatives to major consumer and SaaS products across 10 distinct segments.
