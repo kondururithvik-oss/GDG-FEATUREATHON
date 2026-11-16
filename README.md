@@ -1,5 +1,5 @@
 # GDG-FEATUREATHON
-# Top-Starred Open-Source Product Alternatives
+# Open-Source Product 
 
 A curated `README` showcasing the highest-starred open-source repositories on GitHub that serve as full-featured, self-hostable alternatives to major consumer and SaaS products across 10 distinct segments.
 
